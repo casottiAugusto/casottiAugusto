@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
     - 📧:augusto_casotti@hotmail.com
     - 📱:(+55)3391973527
-    - :linked_paperclips: linkedin.com/in/joão-augusto-casotti-197b4196
+    - :paperclips: linkedin.com/in/joão-augusto-casotti-197b4196
 - ⚡ Fun fact: 
     -   I like to travel :airplane:
     -   I like :cat2:  and :dogs2:
