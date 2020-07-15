@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-Englis
+
 -🔭 I’m currently working on 
     I am focused on improving my developer skills.
     I'm currently out of the job market, but always fighting for my new opportunity to show my work
