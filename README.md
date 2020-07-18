@@ -21,6 +21,6 @@ Here are some ideas to get you started:
     - :paperclips: :linkedin.com/in/joão-augusto-casotti-197b4196
 - ⚡ Fun fact: 
     -   I like to travel :airplane:
-    -   I like :cat2:  and :dogs2:
+    -   I like :cat2:  and :dog2:
     -   I really like RPG games :video_game:
     -   I want to experience how and :camping:
